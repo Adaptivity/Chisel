@@ -699,6 +699,29 @@ chisel.tile.woolenClay.13.desc=Зелёная шерстяная глина
 chisel.tile.woolenClay.14.desc=Красная шерстяная глина
 chisel.tile.woolenClay.15.desc=Чёрная шерстяная глина
 
+#Laboratory Block
+chisel.tile.blockLaboratory.name=Лабораторный блок
+chisel.tile.blockLaboratory.0.desc=Настенная панель
+chisel.tile.blockLaboratory.1.desc=Точечная панель
+chisel.tile.blockLaboratory.2.desc=Эмалированная стена
+chisel.tile.blockLaboratory.3.desc=Эмалированная круглая стена
+chisel.tile.blockLaboratory.4.desc=Эмалированные настенные вентиляторы
+chisel.tile.blockLaboratory.5.desc=Большая эмалированная плитка
+chisel.tile.blockLaboratory.6.desc=Маленькие эмалированные плитки
+chisel.tile.blockLaboratory.7.desc=Лабораторный пол
+chisel.tile.blockLaboratory.8.desc=Клетчатый пол
+chisel.tile.blockLaboratory.9.desc=Чистая панель
+chisel.tile.blockLaboratory.10.desc=Нечёткая панель
+chisel.tile.blockLaboratory.11.desc=Большая стальная плитка
+chisel.tile.blockLaboratory.12.desc=Маленькие стальные плитки
+chisel.tile.blockLaboratory.13.desc=Direction Console (Right)
+chisel.tile.blockLaboratory.14.desc=Direction Console (Left)
+chisel.tile.blockLaboratory.15.desc=Информационная консоль
 
 # Creative Tab localizations
 itemGroup.tabChisel=Chisel: Блоки
+
+#Container
+container.chisel=Стамеска
+container.chisel.title=Гравировать блоки
+container.chisel.titleShort=Гравировать
